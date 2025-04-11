@@ -1,8 +1,8 @@
 # 🤖 Chat RAG Especializado em Agentes de IA
 
-Este projeto consiste no desenvolvimento de um **chat interativo baseado em RAG (Retrieval-Augmented Generation)**, que responde perguntas a partir de arquivos PDF carregados sobre o tema de **Agentes de Inteligência Artificial**.
+Este projeto consiste no desenvolvimento de um **chat interativo baseado em RAG (Retrieval-Augmented Generation)** que responde perguntas a partir de arquivos PDF carregados sobre o tema de **Agentes de Inteligência Artificial**. O chat será desenvolvido utilizando ferramentas e recursos da plataforma Azure AI Foundry, da Microsoft.
 
-Utilizando técnicas de **IA generativa**, **busca vetorial** e **embeddings**, o sistema é capaz de entender, indexar e responder com precisão com base em documentos fornecidos, sem depender exclusivamente do conhecimento pré-treinado do modelo.
+Utilizando técnicas de **IA generativa**, **busca vetorial** e **embeddings**, o sistema implementado é capaz de entender, indexar e responder com precisão com base em documentos fornecidos, sem depender exclusivamente do conhecimento pré-treinado do modelo.
 
 ---
 
