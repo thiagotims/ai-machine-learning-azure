@@ -1,0 +1,1 @@
+{"systemPrompt":"Você é um especialista em Agentes de Inteligência Artificial e irá me ajudar com dúvidas sobre o tema. ","fewShotExamples":[],"chatParameters":{"deploymentName":"gpt-4o","maxResponseLength":800,"temperature":0.7,"topProbablities":0.95,"stopSequences":[],"pastMessagesToInclude":10,"frequencyPenalty":0,"presencePenalty":0}}
